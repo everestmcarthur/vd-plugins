@@ -1,3 +1,12 @@
+# ⚠️ ARCHIVED REPOSITORY — NO LONGER IN DEVELOPMENT
+
+> [!WARNING]
+> **THIS REPOSITORY HAS BEEN OFFICIALLY ARCHIVED AND IS NO LONGER IN ACTIVE DEVELOPMENT ON GITHUB.**
+> 
+> All code in this repository is preserved for historical reference only. No further updates, issues, or pull requests will be accepted or maintained here.
+
+---
+
 # [kmmiio99o's](https://kmmiio99o.dev) Plugins
 
 A collection of plugins for [**Kettu**](https://codeberg.org/cocobo1/Kettu), [**Revenge**](https://github.com/revenge-mod/revenge-bundle) and [**ShiggyCord**](https://shiggycord.dev) discord mobile clients
